@@ -1,0 +1,19 @@
+{
+  "name": "Casino de Dunkerque",
+  "short_name": "Casino de Dunkerque",
+  "theme_color": "",
+  "background_color": "#F4F4F4",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1767100702-favicon-32x32-20.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

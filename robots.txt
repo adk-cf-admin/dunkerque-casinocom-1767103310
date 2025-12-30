@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://dunkerque-casino.com/
+Sitemap: https://dunkerque-casino.com/sitemap.xml
